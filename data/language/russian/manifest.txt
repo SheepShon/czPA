@@ -1,0 +1,5 @@
+Name        "Russian"
+Author      "Introversion Software"
+Date        29/01/2022
+Description "Official Russian translation of Prison Architect modificated by Crime Zoo LLC\n\n\n\nModification version - v0.1"
+ThumbnailSprite russian
